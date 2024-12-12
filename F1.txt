@@ -1,1 +1,2 @@
 Line1 inserted in F1.txt
+Line2 inserted in F2.txt <remote machine>
